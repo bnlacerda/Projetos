@@ -1,2 +1,4 @@
 # Projetos
- Pasta para projetos de estudo em git e gitub
+ Pasta para projetos de estudo de Git e GitHub.
+
+ Também será para colocar códigos e suas versões.
